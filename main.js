@@ -1,5 +1,5 @@
 canvas=document.getElementById("myCanvas");
-ctx=canvas.getContet("2d");
+ctx=canvas.getContext("2d");
 
 rover_width=100;
 rover_height=90;
